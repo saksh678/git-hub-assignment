@@ -1,0 +1,117 @@
+Q1. Explain what version control is and its importance in software development.
+ans. git is a version control system to track every changes of my files. git allow developer to see 
+     each other codes. we can change that code if needed.
+     here are some of its improtance in software development:-
+     1. history:- git track all the change of the code. like if we commit some code. it would be showed
+     in out git hsitory.
+     2. backup:- if developer accideentally delete a file ,or make a mistake they can go a previous 
+     head to retore the backup.
+     3. collabration:- if software development git provide you to 
+     to work multiple person in one single project without interfrance the other work.
+
+
+
+Q2. Explain the Git Workflow, including the staging area, working directory, and repository.
+ans. the git workflow is a set step of stage that developer follow to manage and track changes 
+effectively using git, git is a popular version control system. it's include three stages .
+working directory, 2. stage and commit 3. repository
+1. working directory:- first you can work our local system, edit and organise your project. when you
+   initiate git repository. then it a part of working directory.
+2. stage and commit:- the stage area is improtant if we add some lines first we have to stage them 
+   and then commit them. It acts as a holding area for changes you want to include in the next commit. 
+3.repository:- the repository known as a git repository. git store commited snapshot of your progect.
+  it contain complet history of project , branch , tag and other git related data.
+
+
+
+Q3. Explain what .gi1ignore is and why it’s important in version control
+  ans:- a .gitignore file is a text file that tells Git which files and folders to ignore.
+   It is usually placed in the root directory of a project. When Git sees a .gitignore file,
+   it will ignore any files or folders that are listed in the file. 
+   The .gitignore files are important in version control because they help to keep the repository
+   clean and organized. They also prevent developers from accidentally committing unnecessary files to the repository, 
+   such as log files, build artifacts, and IDE configuration files.
+
+
+Q4.Briefly explain what GitHub is and how it facilitates collaboration and version control also name some 
+alternatives to GitHub.
+ans. github is a cloub based hosting service that help developer store manage their code, as well as
+    track and control changes to their code every time.
+    github facilitates collabrationa and version control in the following:-
+   1. version control:- github use git, a version control system, to track change to the code. this allow
+     developer to see who made what change and when, and revert previous version of code if needed.
+   2.branch and pull request:- your can create multiple branch through git. it will be easy for developer
+     to work our branch, or work in the same project without interfrance the other branch. then later
+     we can merge branch we needed. they can create a pull request also this allow our developer to reveiw
+     the changes and provide feedback before they merge.
+ some of the platforms that provide the same functionality similar to github.
+    1.gitlab
+    2.bitbucket
+    3.lauchpad
+
+
+5. Describe the process of contributing to any open source project on github in step by step manner.
+ans. 1. find a project to contribute to:- there are million of project you can contribute , whatever
+you are interest. or type serch the project topic.
+ 2. read the project contribution guildelines:- most the project have contribution guildeline
+ document that explain how to contribute to our project.the document tell you how to contribute the 
+ project and submit the project.
+ 3. create a fork of the project:- the fork is a copy of the project , that you can make change without
+ affecting the main code. create a fork of project to click fork button.
+ 4.clone a fork of your local computer:- once you have fork the project. get into your local computer.
+   for using git clone link you can clone your local computer. all the fork project see in your computer.
+ 5. make your changes:- make some changes of your code , that you want to contribute of this project.
+   make sure follow guildeline also.
+ 6. commit you changes:- once do your contribution then commit those changes git commit -m "some message"
+    put some message to known something related changes. 
+ 7. push you changes to your fork:- once you have commited you changes. push them to your fork on github.
+    it will show to in your github fork.
+ 8. create a pull request:- a pull request is a way to request that you change to be merged into the main
+    codebase. to create a pull request. click the pull request button in your fork project.
+ 9. wait for your pull request to be reveiwed:- other developer will review your changes and provide 
+    feeback. once your change are approved, they will merge into the main codebase.
+
+
+6. Deploy Tailwind projects named Youtube, slack, and Gmail clones on GitHub pages and share the 
+deployed link of those three. Expected output - Live hosted URL Link of your deployed respective website with 
+GitHub pages.
+ans. Youtube clone https://github.com/search?q=tailwind+youtube+clone&type=repositories
+2. slack clone https://github.com/search?q=tailwind+slack+clone&type=repositories
+3. gmail clone https://github.com/search?q=tailwind+gmail+clone&type=repositories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
